@@ -189,32 +189,6 @@ Working with Docker for:
 
 ---
 
-# 📊 GitHub Analytics
-
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Heshan01&show_icons=true&theme=tokyonight"/>
-
-</p>
-
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heshan01&layout=compact&theme=tokyonight"/>
-
-</p>
-
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Heshan01&theme=tokyonight"/>
-
-</p>
-
-
----
-
 # 🐍 GitHub Contribution Snake
 
 
