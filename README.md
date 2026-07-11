@@ -1,134 +1,278 @@
 <h1 align="center">Hi 👋, I'm Heshan Dilhara</h1>
-<h3 align="center">🚀 Full-Stack Developer | DevOps Enthusiast | Cloud Learner ☁️</h3>
+
+<h3 align="center">
+🚀 DevOps Engineer | Cloud & Automation Enthusiast ☁️
+</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png"/>
+<img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png"/>
+</p>
+
+<p align="center">
+<a href="https://heshansamarasingha.dev">
+<img src="https://img.shields.io/badge/Portfolio-heshansamarasingha.dev-black?style=for-the-badge&logo=vercel">
+</a>
+
+<a href="https://github.com/Heshan01">
+<img src="https://img.shields.io/badge/GitHub-Heshan01-181717?style=for-the-badge&logo=github">
+</a>
+
 </p>
 
 ---
 
-## 🌟 About Me
+# 🌟 About Me
 
 - 🎓 Undergraduate **Bachelor of Information and Communication Technology Honours** student at **University of Vavuniya**.
-- 💻 Passionate about building **Full-Stack Web Applications** and exploring **DevOps & Cloud Engineering**.
-- 🚀 Experienced with developing applications using **React, Java, Spring Boot, PHP, Node.js, and MySQL**.
-- 🐳 Learning and implementing **Docker, CI/CD pipelines, and cloud deployment workflows**.
-- 🔄 Automating development workflows using **Git, GitHub Actions, and DevOps practices**.
-- ☁️ Currently expanding my knowledge in **AWS, Cloud Infrastructure, and Kubernetes**.
-- 🌱 Always learning, building projects, and improving my engineering skills.
+- ☁️ Aspiring **DevOps Engineer** passionate about Cloud Infrastructure, Automation, and Software Delivery.
+- 🔄 Building and automating **CI/CD pipelines** using GitHub Actions and modern DevOps practices.
+- 🐳 Experienced in containerizing applications using **Docker** and deploying production-ready applications.
+- 🖥️ Strong foundation in Full-Stack Development with **React, Spring Boot, Node.js, PHP, and MySQL**.
+- 🐧 Working with Linux environments, server configuration, and deployment workflows.
+- 🚀 Currently expanding knowledge in **AWS, Kubernetes, Infrastructure as Code, and Cloud Architecture**.
+- 🌱 Always learning, experimenting, and improving engineering workflows.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+# 🏗️ DevOps Engineering Stack
 
-### 💻 Programming Languages
+## ☁️ Cloud Platforms
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+
+</p>
+
+
+## 🐳 Containers & Orchestration
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+
+</p>
+
+
+## 🔄 CI/CD & Automation
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,git,bash" />
+
+</p>
+
+
+## 🏗️ Infrastructure as Code
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=terraform,ansible" />
+
+</p>
+
+
+## 🐧 Operating Systems
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu" />
+
+</p>
+
 
 ---
 
-### 🌐 Frontend Development
+# 💻 Development Technologies
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## Frontend
 
----
+<p align="left">
 
-### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js" />
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+</p>
 
----
 
-### 🚀 DevOps & Cloud
+## Backend
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-Learning-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
+<p align="left">
 
----
+<img src="https://skillicons.dev/icons?i=spring,nodejs,php,java,python" />
 
-### 🎨 Design & Development Tools
+</p>
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+## Database
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+
+</p>
+
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🌐 Portfolio Website
+
+## 🌐 Portfolio Website
+
 🔗 https://heshansamarasingha.dev
 
-Personal portfolio website built with modern web technologies featuring responsive UI, animations, and project showcases.
+Personal developer portfolio built with modern frontend technologies featuring responsive UI, animations, and project showcases.
 
-**Tech:** React | Tailwind CSS | Framer Motion
+**Tech Stack**
 
-
-### 📦 Inventory Management System
-
-Full-stack web application for managing products, stock levels, suppliers, and inventory records with a responsive user interface.
-
-**Tech:** PHP | MySQL | CSS | Figma
-
-
-### 🚕 Ceylon Riders - Tourism Cab Service
-
-A full-stack tourism booking platform designed with responsive UI/UX and database-driven functionality.
-
-**Tech:** JavaScript | Node.js | PHP | MySQL | Figma
-
----
-
-## 📊 GitHub Stats
-
-![](www.google.com)
+React • Tailwind CSS • Framer Motion • Vercel
 
 
 ---
 
-## 🌍 Connect With Me
+
+## 📦 Inventory Management System
+
+A full-stack inventory management platform for managing products, suppliers, stock levels, and inventory records.
+
+**Tech Stack**
+
+PHP • MySQL • CSS • Figma
+
+
+---
+
+
+## 🚕 Ceylon Riders - Tourism Cab Service
+
+A tourism-focused booking platform with responsive UI design and database-driven backend functionality.
+
+**Tech Stack**
+
+JavaScript • Node.js • PHP • MySQL • Figma
+
+
+---
+
+
+# ⚙️ CI/CD & Deployment
+
+
+## GitHub Actions
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-blue?style=for-the-badge&logo=githubactions)
+
+
+Automating application workflows including:
+
+- Build automation
+- Testing
+- Deployment pipelines
+- Continuous integration
+
+
+---
+
+
+## 🐳 Docker Deployment
+
+![Docker](https://img.shields.io/badge/Docker-Containerized-blue?style=for-the-badge&logo=docker)
+
+
+Working with Docker for:
+
+- Application containerization
+- Image creation
+- Container deployment
+- Environment consistency
+
+
+---
+
+# 📊 GitHub Analytics
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Heshan01&show_icons=true&theme=tokyonight"/>
+
+</p>
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heshan01&layout=compact&theme=tokyonight"/>
+
+</p>
+
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Heshan01&theme=tokyonight"/>
+
+</p>
+
+
+---
+
+# 🐍 GitHub Contribution Snake
+
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Heshan01/Heshan01/output/github-contribution-grid-snake.svg">
+
+</p>
+
+
+---
+
+# 🌍 Connect With Me
+
 
 <p align="left">
 
 <a href="https://heshansamarasingha.dev">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel">
+
 </a>
+
 
 <a href="https://github.com/Heshan01">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+
 </a>
 
-<a href="https://www.linkedin.com/in/heshan-dilhara-609049396?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+
+<a href="https://www.linkedin.com/in/heshan-dilhara-609049396">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+
 </a>
 
 </p>
 
----
-
-## 💡 Fun Fact
-
-⚡ I believe great software is built by combining **clean code, automation, and continuous learning**.
-
-🚀 Building today. Automating tomorrow. Creating better solutions.
 
 ---
 
-## 🤝 Let's Collaborate!
+# 💡 Fun Fact
 
-Interested in **Full-Stack Development, DevOps, Cloud Technologies, or Open Source?**
+⚡ I believe reliable software is created through **automation, clean infrastructure, and continuous improvement**.
 
-Let's connect and build something impactful together! 🚀
+🚀 Building scalable systems today for the cloud-driven future.
+
+
+---
+
+# 🤝 Let's Collaborate
+
+Interested in:
+
+☁️ Cloud Engineering  
+🐳 DevOps & Automation  
+🔄 CI/CD Pipelines  
+🚀 Open Source Projects  
+
+Let's build something impactful together! 🚀
