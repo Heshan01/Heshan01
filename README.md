@@ -95,9 +95,7 @@ A full-stack tourism booking platform designed with responsive UI/UX and databas
 ## 📊 GitHub Stats
 
 ![](www.google.com)
-![](https://github-readme-stats.vercel.app/api?username=heshansamarasingha&theme=dark&hide_border=false&show_icons=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=heshansamarasingha&theme=dark&hide_border=false)
 
 ---
 
